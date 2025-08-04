@@ -1,0 +1,60 @@
+﻿  ayesha.cpp
+  final_game.cpp
+D:\chess_game\final_game.cpp(98,75): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\chess_game\final_game.cpp(115,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\chess_game\final_game.cpp(132,67): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\chess_game\final_game.cpp(149,70): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\chess_game\final_game.cpp(216,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(216,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(229,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(229,30): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(261,84): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\chess_game\final_game.cpp(261,64): warning C4244: 'argument': conversion from 'T' to 'T', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+          and
+          [
+              T=float
+          ]
+D:\chess_game\final_game.cpp(841,38): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(841,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(857,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(857,37): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\chess_game\final_game.cpp(1175,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+D:\chess_game\final_game.cpp(1253,63): warning C4244: 'argument': conversion from 'T' to 'float', possible loss of data
+          with
+          [
+              T=unsigned int
+          ]
+  Generating Code...
+  chess_game.vcxproj -> D:\chess_game\x64\Debug\chess_game.exe

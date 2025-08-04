@@ -1,0 +1,1 @@
+D:\chess_game\x64\Debug\chess_game.exe
